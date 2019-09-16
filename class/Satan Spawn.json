@@ -1,0 +1,53 @@
+{
+    "$schema": "../schema.json",
+     "_meta": {
+        "sources": [
+			{
+				"json": "My",
+				"full": "Dpeter99 my",
+				"authors": [
+					"dpeter99"
+				],
+				"abbreviation": "",
+				"url": "",
+				"version": "V0.1"
+			}
+		],
+		"dateAdded": 1559662102
+     },
+     "class":[
+         {
+            "name": "Satan Spawn",
+            "source": "my",
+            "hd": {
+				"number": 1,
+				"faces": 12
+			},
+			"proficiency": [
+				"str",
+				"wis"
+            ],
+            "startingProficiencies": {
+				"weapons": [
+					"simple",
+					"martial"
+                ],
+                "armors":[
+                    "light",
+                    "megium"
+                ],
+				"skills": {
+					"choose": 2,
+					"from": [
+						"Arcana",
+						"Deception",
+						"Insight",
+						"Intimidation",
+						"Persuasion",
+						"Religion"
+					]
+				}
+			}
+        }
+    ]
+}

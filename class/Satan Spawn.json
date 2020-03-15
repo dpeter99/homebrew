@@ -37,14 +37,17 @@
                     "megium"
                 ],
 				"skills": {
-					"choose": 2,
+					"choose": 3,
 					"from": [
+						"Athletics",
+						"Perception",
 						"Arcana",
-						"Deception",
-						"Insight",
-						"Intimidation",
-						"Persuasion",
-						"Religion"
+						"Investigation",
+						"History",
+                        "Survival",
+                        "Religion",
+                        "Intimidation",
+                        "Deception"
 					]
 				}
 			}
